@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Lamiel01
+- 👋 Hi, I’m @Lamiel01, I'm 19 years old
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Python and whatever
 
-<!---
-Lamiel01/Lamiel01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamiel01)](https://github.com/Lamiel01/)
