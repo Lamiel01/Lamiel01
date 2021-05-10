@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Lamiel01, I'm 19 years old
+- 👋 Hi, I’m @Lamiel01
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript, Python and whatever
+- 🌱 I’m currently learning Golang, Javascript, Python and whatever
